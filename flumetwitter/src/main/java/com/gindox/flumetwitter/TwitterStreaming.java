@@ -138,8 +138,8 @@ public class TwitterStreaming extends AbstractSource
     } else {
       logger.debug("Starting up Twitter filtering...");
       FilterQuery query = new FilterQuery()
-        .track(keywords)
-        .setIncludeEntities(true);
+        .track(keywords);
+//        .setIncludeEntities(true);
       twitterStream.filter(query);
     }
     super.start();
