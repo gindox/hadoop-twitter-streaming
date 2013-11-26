@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.gindox.flume_twitter;
+package com.gindox.flumetwitter;
 
 import java.util.HashMap;
 import java.util.Map;

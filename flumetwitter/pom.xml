@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.gindox</groupId>
-  <artifactId>flume-twitter</artifactId>
+  <artifactId>flumetwitter</artifactId>
   <version>0.1</version>
   <packaging>jar</packaging>
 
-  <name>flume-twitter</name>
+  <name>flumetwitter</name>
   <url>http://www.gindox.com</url>
 
   <properties>

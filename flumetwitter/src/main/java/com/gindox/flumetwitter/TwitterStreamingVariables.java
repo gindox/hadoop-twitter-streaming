@@ -1,4 +1,4 @@
-package com.gindox.flume_twitter;
+package com.gindox.flumetwitter;
 
 public class TwitterStreamingVariables {
 
